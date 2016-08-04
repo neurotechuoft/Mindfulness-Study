@@ -1,4 +1,4 @@
-Notes
+# Notes
 
 - Alex: want to look into anxiety in general
 
