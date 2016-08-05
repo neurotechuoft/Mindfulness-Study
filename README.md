@@ -9,12 +9,19 @@ The purpose of this project is to develop and test software that will help facil
 
 ## Work Plan
 1) Conduct literature review, identify previous research on the neuroscience and physiology of meditation. Identify measurable physiological and neurological indicators of a meditative state, measurable indicators of the benefits of meditation, and any transitional stages leading from a 'normal'/resting state into a meditative state. (in progress)
+
 2) Assemble a list of factors which 'define' a meditative state; select a handful which will be measured throughout the course of this study.
+
 3) Identify hurdles in reaching a meditative state, and design a system to help bypass these barriers.
+
 4a) Design study methodology
+
 4b) Build codebase
+
 5) Recruit study group
+
 6) Conduct study
+
 7) Write paper
 
 ## Preliminary Definitions: Meditation
