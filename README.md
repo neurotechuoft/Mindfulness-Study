@@ -6,6 +6,9 @@ The purpose of this project is to develop and test software that will help facil
 - Design software which helps facilitate an easier and faster transition into a meditative state, measured through the factors identified above
 - Determine whether software system was effective in facilitating an easier or faster transition into a meditative state, and/or whether such a transition has enhanced the physiological and neurological outcomes for the user
 - Assemble and publish the results
+- 
+## Tools
+Lit Review Google Docs: https://docs.google.com/document/d/1sCXBwETHhX8t_NCxsE6T9fu3ygefoEPrD7EHivQCDdY/edit?usp=sharing
 
 ## Work Plan
 1) Conduct literature review, identify previous research on the neuroscience and physiology of meditation. Identify measurable physiological and neurological indicators of a meditative state, measurable indicators of the benefits of meditation, and any transitional stages leading from a 'normal'/resting state into a meditative state. (in progress)
@@ -26,6 +29,3 @@ The purpose of this project is to develop and test software that will help facil
 
 ## Preliminary Definitions: Meditation
 A state defined by greater relaxation, drop in stress, heightened concentration/focus and situational awareness, a "happy feeling", and less diverse brain activity (concentration of alpha and omega wave behaviour). Increased focus on the self -- breath-counting, greater 'self-consciousness', and a sense of 'being in the moment'. A state of augmented awareness, a 'settled mind'. Post-meditative benefits in terms of greater focus and performance on concentration tasks.
-
-## Tools
-Lit Review Google Docs: https://docs.google.com/document/d/1sCXBwETHhX8t_NCxsE6T9fu3ygefoEPrD7EHivQCDdY/edit?usp=sharing
