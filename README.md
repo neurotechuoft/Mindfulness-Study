@@ -6,7 +6,7 @@ The purpose of this project is to develop and test software that will help facil
 - Design software which helps facilitate an easier and faster transition into a meditative state, measured through the factors identified above
 - Determine whether software system was effective in facilitating an easier or faster transition into a meditative state, and/or whether such a transition has enhanced the physiological and neurological outcomes for the user
 - Assemble and publish the results
-- 
+
 ## Tools
 Lit Review Google Docs: https://docs.google.com/document/d/1sCXBwETHhX8t_NCxsE6T9fu3ygefoEPrD7EHivQCDdY/edit?usp=sharing
 
